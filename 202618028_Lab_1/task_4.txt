@@ -1,0 +1,17 @@
+
+TASK 4: INSIGHTS AND INTERPRETATION
+
+
+--- Key Observations ---
+1. Price vs. Rating Relationship: Interestingly, a book's price doesn't seem to have much to do with its rating. When looking at the boxplot, books with lower ratings have pretty much the same price range and median as those with 5 stars.
+2. Most Represented Categories: Out of the 100 books scraped, the most common genres that popped up in this sample were Sequential Art and Nonfiction.
+3. Most Expensive Categories: When breaking down the costs by genre for our most frequent categories, Fiction stood out as the most expensive category on average, followed closely by Poetry.
+4. Best Value Book: To find the best bang for your buck, I calculated a "value score" by dividing the star rating by the price. The clear winner was "Princess Between Worlds (Wide-Awake Princess #5)", offering the best balance of a high rating at a low cost.
+5. Rating Distribution: Looking at the overall ratings, the most common scores given to the books in this sample were actually tied between 1-star and 3-star ratings. 
+6. Price Distribution: Book prices in this dataset are pretty spread out, ranging anywhere from £10 to just under £60, with the average book costing around £34.56.
+7. Description Word Cloud: The word cloud created from the book descriptions prominently features words like "one", "life", "time", and "new". This makes sense, as these are common buzzwords used in publisher marketing copy.
+
+--- Limitations of the Dataset and Analysis ---
+- Sample Size: This analysis only looks at a small snapshot of 100 books taken from the first five catalog pages. Since the full website contains 1,000 books, this sample might not perfectly represent the entire catalog.
+- Placeholder Data: Because the target website is a sandbox built specifically for web scraping practice, the prices, stock counts, and descriptions are mostly randomized or placeholder text. Therefore, we can't draw real-world publishing conclusions from this data.
+- Missing Review Text: The website does not provide written customer-review text, meaning the text analysis and word cloud had to be based purely on the publisher's product descriptions rather than actual reader sentiment.
