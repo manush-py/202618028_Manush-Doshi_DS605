@@ -4,19 +4,18 @@
 
 ### Student Details
 
-**Name:** Manush Doshi
-**Student ID:** 202618028
+**Name:** Manush Doshi  
+**Student ID:** 202618028  
 
 ### Dataset
 
-**Dataset:** Titanic Dataset (`train.csv`)
-**Source:** Kaggle Titanic Dataset
+**Dataset:** Titanic Dataset (`train.csv`)  
+**Source:** Kaggle Titanic Dataset  
 
 ### Objective
 Practice vectorized NumPy operations and basic data wrangling with Pandas using the Titanic dataset.
 
 ### Project Details
-
 This assignment focuses on using **NumPy** for vectorized programming and **Pandas** for data wrangling and analysis.
 
 The first part covers NumPy operations such as array creation, statistical calculations, indexing, slicing, reshaping, vectorized arithmetic, matrix operations, normal distribution, and histogram visualization.
