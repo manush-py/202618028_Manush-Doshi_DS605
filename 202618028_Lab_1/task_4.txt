@@ -1,4 +1,3 @@
-
 TASK 4: INSIGHTS AND INTERPRETATION
 
 
@@ -12,6 +11,6 @@ TASK 4: INSIGHTS AND INTERPRETATION
 7. Description Word Cloud: The word cloud created from the book descriptions prominently features words like "one", "life", "time", and "new". This makes sense, as these are common buzzwords used in publisher marketing copy.
 
 --- Limitations of the Dataset and Analysis ---
-- Sample Size: This analysis only looks at a small snapshot of 100 books taken from the first five catalog pages. Since the full website contains 1,000 books, this sample might not perfectly represent the entire catalog.
-- Placeholder Data: Because the target website is a sandbox built specifically for web scraping practice, the prices, stock counts, and descriptions are mostly randomized or placeholder text. Therefore, we can't draw real-world publishing conclusions from this data.
-- Missing Review Text: The website does not provide written customer-review text, meaning the text analysis and word cloud had to be based purely on the publisher's product descriptions rather than actual reader sentiment.
+1. Sample Size: This analysis only looks at a small snapshot of 100 books taken from the first five catalog pages. Since the full website contains 1,000 books, this sample might not perfectly represent the entire catalog.
+2. Placeholder Data: Because the target website is a sandbox built specifically for web scraping practice, the prices, stock counts, and descriptions are mostly randomized or placeholder text. Therefore, we can't draw real-world publishing conclusions from this data.
+3. Missing Review Text: The website does not provide written customer-review text, meaning the text analysis and word cloud had to be based purely on the publisher's product descriptions rather than actual reader sentiment.

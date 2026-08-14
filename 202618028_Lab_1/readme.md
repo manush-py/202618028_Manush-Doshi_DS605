@@ -44,6 +44,9 @@ The goal of this assignment is to build a complete data pipeline by scraping boo
 └── README.md
 ```
 
+## Observations
+https://github.com/manush-py/202618028_Manush-Doshi_DS605/blob/main/202618028_Lab_1/task_4.txt
+
 
 ## Conclusion
 To sum it up, this assignment proved that the full data pipeline—from web scraping to data cleaning and visualization—is working exactly as intended. While the charts and insights are interesting to look at, the data comes from a sandbox site using placeholder text, so we can't draw any real-world publishing conclusions from it (especially with only 100 books and no real reviews). The main goal was to build the technical infrastructure to extract and analyze the data, and this project successfully does just that.
