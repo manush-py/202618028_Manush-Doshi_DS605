@@ -43,7 +43,7 @@ The objective of this assignment is to build a complete machine learning workflo
 
 ---
 
-### 📊 Key Visualizations & Screenshots
+# 📊 Key Visualizations & Screenshots
 
 **1. Application Screenshot**
 *(Below is the deployed Streamlit user interface)*
@@ -51,12 +51,12 @@ The objective of this assignment is to build a complete machine learning workflo
 
 **2. Geographic Spatial Map**
 *(Demonstrates listing clusters across NYC boroughs)*
-![Geographic Map](plot3_geographic_map_overlay.png)
+* [View Geographic Map](plots/plot3_geographic_map_overlay.png)
 
 **3. Feature Importances**
 *(Top variables influencing the Gradient Boosting model)*
-![Feature Importances](plot4_feature_importance.png)
+* [View Feature Importances](plots/plot4_feature_importance.png)
 
 **4. Actual vs. Predicted Prices**
 *(Visualizing prediction accuracy and variance)*
-![Actual vs Predicted Accuracy](plot5_actual_vs_predicted.png)
+* [View Actual vs. Predicted Accuracy Plot](plots/plot5_actual_vs_predicted.png)
