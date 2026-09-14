@@ -13,7 +13,7 @@ st.set_page_config(
 # Load the saved end-to-end pipeline
 @st.cache_resource
 def load_pipeline():
-    return joblib.load('airbnb_price_pipeline.joblib')
+    return joblib.load('202618028_Lab_4/airbnb_price_pipeline.joblib')
 
 pipeline = load_pipeline()
 
